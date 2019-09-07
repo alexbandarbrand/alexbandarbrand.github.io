@@ -1,11 +1,10 @@
-{"nodes":[	{"name":	Ben Satterfield	","group":	0	},
-	{"name":	Ben Slobodien	","group":	1	},
-	{"name":	Brad Hatcher	","group":	2	},
-	{"name":	Alex Bandar	","group":	3	},
-	{"name":	Ethan Dicks	","group":	4	},
-	{"name":	Adlai Stein	","group":	5	},
-	{"name":	Alexandra Kalika	","group":	6	}],
-
+{"nodes":[	{"name":	"Ben Satterfield"	","group":	0	},
+	{"name":	"Ben Slobodien"	","group":	1	},
+	{"name":	"Brad Hatcher"	","group":	2	},
+	{"name":	"Alex Bandar"	","group":	3	},
+	{"name":	"Ethan Dicks"	","group":	4	},
+	{"name":	"Adlai Stein"	","group":	5	},
+	{"name":	"Alexandra Kalika"	","group":	6	}],
 "links":[	{"source":	0	,"target":	1	, "value":1}	,
 	{"source":	0	,"target":	2	, "value":1}	,
 	{"source":	0	,"target":	3	, "value":1}	,
@@ -16,4 +15,3 @@
 	{"source":	3	,"target":	4	, "value":1}	,
 	{"source":	3	,"target":	5	, "value":1}	,
 	{"source":	3	,"target":	6	, "value":1}	]
-}
