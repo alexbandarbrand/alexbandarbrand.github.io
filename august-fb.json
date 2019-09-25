@@ -1,4 +1,4 @@
 {"nodes":[	{"name":	"Adlai Stein"	,"group":	0	},
 	{"name":	"Alex Bandar"	,"group":	1	}],
- "links":[	{"source":	"Adlai Stein"	,"target":	"Alex Bandar	, "value":1}]
+ "links":[	{"source":	"Adlai Stein"	,"target":	"Alex Bandar"	, "value":1}]
 
